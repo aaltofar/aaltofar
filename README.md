@@ -1,5 +1,5 @@
 <h1 align="center">Hei 👋, jeg heter Marius Aalto</h1>
-<h3 align="center">En motivert utvilkerstudent i GET Academy fra Larvik.</h3>
+<h3 align="center">En motivert utviklerstudent i GET Academy fra Larvik.</h3>
 
 - 🔭 Jeg jobber akkurat nå med [et turn-based RPG spill!](https://github.com/aaltofar/Turn-Based-RPG)
 
