@@ -9,8 +9,6 @@
 
 - 📫 Hvordan nå meg? **mariusaalto@getacademy.no**
 
-- ⚡ Fun fact **Jeg plasserte i topp 10 under "NM" i Guitar Hero 2011 på The Gathering**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marius-aalto-7549531a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius-aalto" height="30" width="40" /></a>
