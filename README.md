@@ -1,7 +1,7 @@
 <h1 align="center">Hei 👋, jeg heter Marius Aalto</h1>
 <h3 align="center">En motivert utviklerstudent i GET Academy fra Larvik.</h3>
 
-- 🔭 Jeg jobber akkurat nå med [et turn-based RPG spill!](https://github.com/aaltofar/Turn-Based-RPG)
+- 🔭 Jeg jobber akkurat nå med [RPG-typing-game satt i Dark Souls universet](https://github.com/aaltofar/TypeSoulsApp)
 
 - 🌱 Jeg lærer meg for tiden **Javascript og C#**
 
