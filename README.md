@@ -1,13 +1,13 @@
 <h1 align="center">Hi, my name is Marius Aalto</h1>
-<h3 align="center">A motivated developer student at GET Academy in Larvik, Norway.</h3>
+<h3 align="center">Currently in the middle of a 12-month intership as a teacher at <a href="http://getacademy.no">GET Academy</a> in Larvik, Norway.</h3>
 
-- 🔭 I'm currently working on: [RPG-typing-game set in the Dark Souls universe](https://github.com/aaltofar/TypeSoulsApp)
-
-- 🌱 Currently learning **Javascript & C#**
+- 🔭 I'm currently working on: A quiz-app called Kvissr (link incoming)
+  
+- 🌱 Currently focusing on **Frontend and design**
 
 - 🌱 I also want to learn **Rust og Python**
 
-- 📫 How to reach me? **mariusaalto@getacademy.no**
+- 📫 How to reach me? **mariusaalto@getacademy.no / wizard@aalto.codes**
 
 
 <h3 align="left">Languages and Tools:</h3>
