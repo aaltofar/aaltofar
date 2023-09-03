@@ -3,9 +3,9 @@
 
 - 🔭 I'm currently working on: A quiz-app called Kvissr (link incoming)
   
-- 🌱 Currently focusing on **Frontend and design**
+- 🌱 Currently focusing on **Frontend and design** for the next six months
 
-- 🌱 I also want to learn **Rust og Python**
+- 🌱 I'm also learning **Rust** in my spare time
 
 - 📫 How to reach me? **mariusaalto@getacademy.no / wizard@aalto.codes**
 
