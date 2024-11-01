@@ -9,7 +9,7 @@ I have a background in marketing, sales and graphic design, being responsible fo
   
 - 🌱 I'm also learning **SvelteKit** in my spare time
 
-- 📫 How to reach me? **wizard@aalto.codes**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
